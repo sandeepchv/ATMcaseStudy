@@ -180,3 +180,4 @@ class getMiniStatement extends Transaction{
 		bankDatabase.printMiniStatement(getAccountNumber());
 	}
 }
+#testing
